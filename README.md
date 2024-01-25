@@ -1,2 +1,2 @@
 # dbME-installer
-to be installed with the dbME-installer Installer.
+making a dreamberd interpreter/compiler(?). this is the installer. to be installed with the installer installer.
